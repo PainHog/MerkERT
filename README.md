@@ -22,7 +22,7 @@ Needs Node 22, npm and network access for `npm install`. The book build needs Ch
 | `templates/docs/` | Starter document templates with `<!-- FILL: … -->` markers |
 | `tools/` | `make-starter.mjs` |
 | `examples/` | A finished set of starter documents (*Don't Get Gobble Gobbled*) |
-| `reference/` | `books/` (Richard's rulebooks), `GAME-NOTES.md`, and `studies/` (copied into every starter) |
+| `reference/` | `GAME-NOTES.md` (notes on Richard's rulebooks, which are never committed), `books/` (where attached rulebooks sit during a session) and `studies/` (copied into every starter) |
 | `games/` | One folder per game set up here |
 
 © 2026 Richard Moore. All rights reserved.

@@ -94,8 +94,8 @@ Send Richard **both files**: the zip and `KICKOFF-PROMPT.md`. Use the session's 
 - **Keep model names out of commits, code and docs** (except a required commit trailer).
 
 ## Reference books
-- **`reference/books/`** holds Richard's rulebook PDFs. Don't commit a file over 95 MB (GitHub refuses files over 100 MB); tell Richard instead.
-- **`reference/GAME-NOTES.md`:** one section per game, written from the books in the first session and updated when a new version arrives. Each section covers:
+- **Never commit Richard's rulebook PDFs.** He attaches them to a session for reference only. Save them to `reference/books/` for that session (`.gitignore` keeps `*.pdf` there out of git), read them, and keep what matters in the notes below.
+- **`reference/GAME-NOTES.md`:** one section per game, written from the books in the first session and updated when Richard attaches a new version. It's the studio's only lasting record of his books. Each section covers:
   - the premise in a line;
   - player count and session length;
   - the core roll or engine;

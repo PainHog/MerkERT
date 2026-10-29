@@ -1,3 +1,3 @@
 # Richard's rulebooks
 
-Put Richard's rulebook PDFs here, named by game and version (for example `Heisty_Spideys_v4.8.pdf`). They are reference only: read them for engines, structure and lessons, and never copy their text into a new game. Don't commit a file over 95 MB.
+Richard's rulebook PDFs are **never committed**. When he attaches one to a session, save it here for that session, named by game and version (for example `Heisty_Spideys_v4.8.pdf`); `.gitignore` keeps `*.pdf` in this folder out of git. They are reference only: read them for engines, structure and lessons, record what matters in `reference/GAME-NOTES.md`, and never copy their text into a new game.

@@ -1,0 +1,38 @@
+{
+  "id": "__GAME_ID__",
+  "type": "system",
+  "title": "__GAME_TITLE__",
+  "description": "The companion Foundry VTT game system for __GAME_TITLE__, a tabletop roleplaying game by Richard Moore. Early skeleton: the game's rules are not written yet.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Richard Moore",
+      "url": "https://github.com/__GITHUB_REPO__"
+    }
+  ],
+  "esmodules": [
+    "module/__GAME_ID__.mjs"
+  ],
+  "styles": [
+    "styles/__GAME_ID__.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [],
+  "socket": true,
+  "url": "https://github.com/__GITHUB_REPO__",
+  "bugs": "https://github.com/__GITHUB_REPO__/issues",
+  "manifest": "https://github.com/__GITHUB_REPO__/releases/latest/download/system.json",
+  "download": "https://github.com/__GITHUB_REPO__/releases/latest/download/system.zip",
+  "license": "LICENSE",
+  "readme": "README.md"
+}

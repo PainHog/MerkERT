@@ -13,8 +13,8 @@ Written 2026-10-29 from the rulebooks Richard attached: *Heisty Spideys* v4.8, *
 | *Heisty Spideys* | v4.8, First Edition, 51 pp | 2–6 + Storyteller | 13+ | one heist a night (not stated) | d6 pool, 5–6 hits vs a count | the Alert, Limit 10→2 | *Heisty Spideys* |
 | *Don't Get Forked* | v0.3 playtest copy, 34 pp | 3–5 + Storyteller | 12+ | 1–2 h a raid | trait die + Mask d6 / Monster d10 vs 6–12 | Suspicion + 12 Turns to dawn | *Don't Get Forked* |
 | *Nine Lives Gang* | v0.8 draft, 50 pp | 3–5 + Storyteller | 8+ | 1–2 h a robbery | d6 pool, read the highest die | Broom and Cuddle meters + Prize Clock | *Nine Lives Gang* |
-| *Second Nature* | v0.1 playtest draft, 52 pp | 3–5 + Storyteller | 10+ | 2–3 h a mission; campaign | d6 pool, 5–6 hits vs a count | Scent, Limit per group size | probably the Morph game (to confirm) |
-| *Nightwake* | v0.1, 31 pp, no art | 3–5 + Storyteller | 12+ | about 3 h, one night | 5d6, 5–6 hits vs Guard 1–3 | no meter; four Hours to dawn | probably *Elemental Fighters* (to confirm) |
+| *Second Nature* | v0.1 playtest draft, 52 pp | 3–5 + Storyteller | 10+ | 2–3 h a mission; campaign | d6 pool, 5–6 hits vs a count | Scent, Limit per group size | the Morph game |
+| *Nightwake* | v0.1, 31 pp, no art | 3–5 + Storyteller | 12+ | about 3 h, one night | 5d6, 5–6 hits vs Guard 1–3 | no meter; four Hours to dawn | *Elemental Fighters*, renamed |
 
 ## Across the games
 
@@ -32,7 +32,7 @@ Written 2026-10-29 from the rulebooks Richard attached: *Heisty Spideys* v4.8, *
   - **Used twice already:** the Hunt (*Second Nature*'s enemy, a *Nightwake* phase), Clash, Harm, a character named Priya (*Second Nature*, *Nightwake*); Push (*Nine Lives Gang*, *Second Nature*); Edge (*Second Nature*, *Nightwake*); Good Dog (*Don't Get Forked*'s Werewolf, *Second Nature*'s Shepherd Dog); Ghost (a *Heisty Spideys* role, a *Don't Get Forked* Entity); Shortcut (a perk in both); Prize, Distract and "scooped" (*Heisty Spideys*, *Nine Lives Gang*); Perk (three games).
   - **Close titles:** *Second Nature*'s "Night of the Waking" against *Nightwake*.
 - **Credits:** only *Heisty Spideys* prints the AI-assistance line `CLAUDE.md` requires. *Don't Get Forked*, *Nine Lives Gang*, *Second Nature* and *Nightwake* don't, and the illustrated ones have no art or map credit either.
-- **Foundry companions:** *Heisty Spideys* (PainHog/SpideyHeist), *Nightwake* (domoorestudio.com) and *Nine Lives Gang* (mentioned, not named).
+- **Foundry VTT:** every game has its own Foundry system and repository (Richard, 2026-10-30). The books name two: *Heisty Spideys* (PainHog/SpideyHeist) and *Nightwake* (domoorestudio.com).
 - **Gaps that keep coming back** (first read, across books):
   - **A21:** party-size claims with no per-size numbers (*Nine Lives Gang*, *Nightwake*, *Second Nature*).
   - **A9:** options the shipped scenarios never use (every book).
@@ -279,7 +279,7 @@ Written 2026-10-29 from the rulebooks Richard attached: *Heisty Spideys* v4.8, *
 
 ## *Second Nature* (v0.1)
 
-- **Premise:** Kids who can each turn into one real animal sneak into places run by the Gilded Hunt, a secret society of rich townsfolk who bind animal gifts into gold Trophies. They free, wreck or steal before the Hunt catches their Scent.
+- **Premise:** Kids who can each turn into one real animal sneak into places run by the Gilded Hunt, a secret society of rich townsfolk who bind animal gifts into gold Trophies. They free, wreck or steal before the Hunt catches their Scent. This is the Morph game in `GAMES.md` (Richard confirmed).
 - **Players and length:** 3–5 players plus a Storyteller, who never rolls. Ages 10+; the characters are 11–15. One mission per 2–3 hour session. A campaign is six missions, then the Last Hunt.
 - **Core roll / engine:**
   - **The roll:** d6s equal to your approach rating (0–4) in your current form, plus bonus dice. Each 5–6 is a hit, and the Difficulty (usually 1–4) is the number of hits needed.
@@ -357,7 +357,7 @@ Written 2026-10-29 from the rulebooks Richard attached: *Heisty Spideys* v4.8, *
 
 ## *Nightwake* (v0.1)
 
-- **Premise:** The night every clock stops, five ordinary people wake to the five Chinese elements (Wu Xing) and must break the Unmade's Anchors and its Heart before dawn. Almost certainly GAMES.md's *Elemental Fighters*, renamed; the enemy is "the Unmade", not "The Darkness".
+- **Premise:** The night every clock stops, five ordinary people wake to the five Chinese elements (Wu Xing) and must break the Unmade's Anchors and its Heart before dawn. This is *Elemental Fighters* renamed (Richard confirmed); the enemy is now "the Unmade", not "The Darkness".
 - **Players and length:** 3–5 players and a Storyteller, ages 12+. One standalone night: about 3 hours of play after 30–40 minutes' setup (20 with ready-made fighters). Seven d6 per player (five, plus two bonus dice in another colour).
 - **Core roll / engine:**
   - Roll 5d6; each 5 or 6 is a hit, against the enemy's Guard (1–3). No opposed rolls.

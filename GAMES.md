@@ -13,6 +13,7 @@ Every game has its own repository and its own Foundry VTT system, like the one e
 | *Nightwake* (was *Elemental Fighters*) | Rulebook v0.1 | EF | Heroes of the five Chinese elements, each with a perk, a fighting style and an Awakening, fighting the Unmade (first pitched as "The Darkness"); one night, one shot |
 | *Second Nature* (was the Morph game) | Rulebook v0.1 (playtest draft) | Animahs | Kids who each shift into one animal, with a human perk and an animal perk; inspired by *Animorphs*, so the name and terms must stay clear of it |
 | *Don't Get Gobble Gobbled* | Starter delivered 2026-10-26 | GobblinGlobbin | Turkeys hiding and escaping on dinner night. The finished starter documents are in `examples/` |
+| *Witch & Ward* | Starter delivered 2026-10-30 | suggested: WitchAndWard | A group of witches, more than three allowed, with an optional guardian played by one player; built on the concept of the original *Charmed* show, so the name and terms must stay clear of it |
 
 ## Series
 - **"Don't Get…"**: *Don't Get Forked* and *Don't Get Gobble Gobbled*. A possible line of party one-shots with shared trade dress and engine. That's Richard's call; ask when a new pitch might fit.
